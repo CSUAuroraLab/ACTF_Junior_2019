@@ -1,2 +1,0 @@
-将 bin 中的程序放到一个比较隐蔽的地方（比如C:\windows\syswow64，并将其加入启动项里）
-将 Problem.txt 改为 {题目名}.txt 放在桌面
