@@ -1,0 +1,1 @@
+flag = r"ACTF{Y0u_n33d_cryptographic_HASH}"

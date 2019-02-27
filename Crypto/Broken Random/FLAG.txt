@@ -1,0 +1,1 @@
+ACTF{use_/dev/urandom/_for_us}

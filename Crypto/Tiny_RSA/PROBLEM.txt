@@ -1,0 +1,11 @@
+学习RSA，并且拿计算器算一下下面这个加密的结果。
+将加密得到的数字加上ACTF{}就是flag了
+
+p = 11
+q = 17
+e = 3
+m = 88
+
+参考资料： 
+- https://zhuanlan.zhihu.com/p/33580225
+- https://zh.wikipedia.org/wiki/RSA%E5%8A%A0%E5%AF%86%E6%BC%94%E7%AE%97%E6%B3%95

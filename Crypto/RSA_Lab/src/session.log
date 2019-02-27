@@ -1,0 +1,13 @@
+02/19/19 16:46:34 v1.34.5 @ THINKER-Z, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+detected L1 = 32768 bytes, L2 = 6291456 bytes, CL = 64 bytes
+measured cpu frequency ~= 1805.133820
+using 20 random witnesses for Rabin-Miller PRP checks
+
+02/19/19 16:46:34 v1.34.5 @ THINKER-Z, New random seeds: 3404662836, 3893694724
+
+02/19/19 16:46:34 v1.34.5 @ THINKER-Z, Processing expression: factor(1277298468069761698101169666220381318599946817546513677353733)
+
+

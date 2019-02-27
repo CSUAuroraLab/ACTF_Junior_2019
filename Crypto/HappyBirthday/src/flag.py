@@ -1,0 +1,1 @@
+flag = r"ACTF{Ah_Ha_birthday_attack}"

@@ -1,0 +1,6 @@
+在有限专家间评议加密算法是不是比直接公开更安全？ https://www.zhihu.com/question/47316089
+随机确定密文的加密方式，密码有办法被破解吗？ https://www.zhihu.com/question/20212563
+用无理数加密，如何破解？ https://www.zhihu.com/question/35106877
+一般密码10个数字和26个字母组合如果我或有关重要部门造了50新字母，黑客键盘上没有这些字母如何破解？ https://www.zhihu.com/question/59180335
+如何将一个英文单词通过转码或者数学计算等手段隐藏在一个中文字里？ https://www.zhihu.com/question/54588377/answer/141679892
+任何密码都可以用穷举推算出来，只是时间问题。如果是这样的话，那不是很不安全？ https://www.zhihu.com/question/62578684/answer/225981223
