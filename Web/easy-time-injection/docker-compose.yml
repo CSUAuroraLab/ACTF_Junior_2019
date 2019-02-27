@@ -1,0 +1,8 @@
+version: '2'
+services:
+ php:
+   image: mattrayner/lamp:latest-1604-php7
+   volumes:
+    - ./www:/var/www/html
+   ports:
+    - "29019:80"
