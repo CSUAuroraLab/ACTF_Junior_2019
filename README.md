@@ -19,21 +19,21 @@
 | Linux基础 | PWN&Linux | 40 |         |        |
 | 瑞士军刀 | PWN&Linux | 50 |         |        |
 | 极光宝 | PWN&Linux | 90 |         |        |
-| No_more_gets1 | PWN&Linux | 100 |         | [CSUWangj](https://github.com/CSUwangj) |
+| [No_more_gets1](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Linux%26PWN/No_more_gets1/src) | PWN&Linux | 100 |         | [CSUWangj](https://github.com/CSUwangj) |
 | ed | PWN&Linux | 100 |         |        |
-| Special_Shell | PWN&Linux | 110 |         | [CSUWangj](https://github.com/CSUwangj) |
-| No_more_gets2 | PWN&Linux | 120 |         | [CSUWangj](https://github.com/CSUwangj) |
+| [Special_Shell](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Linux%26PWN/Special_Shell/src) | PWN&Linux | 110 |         | [CSUWangj](https://github.com/CSUwangj) |
+| [No_more_gets2](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Linux%26PWN/No_more_gets2/src) | PWN&Linux | 120 |         | [CSUWangj](https://github.com/CSUwangj) |
 | ~~简单的数学题~~ | PWN&Linux | 100 |         |        |
-| SSH | Web | 30 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| collider | Web | 50 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| SQL Injection | Web | 80 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [SSH](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/SSH) | Web | 30 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [collider](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/collider) | Web | 50 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [SQL Injection](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/SQL%E6%B3%A8%E5%85%A5) | Web | 80 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
 | pcre | Web | 80 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| Time Injection | Web | 100 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| Find me! | Web | 100 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| XXE | Web | 120 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| HTTP闯三关 | Web | 150 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| 点赞 | Web | 150 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
-| phpmyadmin | Web | 200 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [Time Injection](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/easy-time-injection) | Web | 100 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [Find me!](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/robots) | Web | 100 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [XXE](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/php_xxe) | Web | 120 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [HTTP闯三关](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/HTTP%E9%97%AF%E5%85%B3) | Web | 150 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [点赞](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/%E7%82%B9%E8%B5%9E) | Web | 150 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
+| [phpmyadmin](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Web/phpmyadmin) | Web | 200 |         | [TheReturnOfTheKing](https://www.lhaihai.wang/) |
 | casear | Crypto | 50 |         | [CSUWangj](https://github.com/CSUwangj) |
 | [矾书](https://github.com/CSUwangj/ACTF_Junior_2019/tree/master/Crypto/%E7%9F%BE%E4%B9%A6/src) | Crypto | 50 |         | [CSUWangj](https://github.com/CSUwangj) |
 | 反切码 | Crypto | 60 |         | [CSUWangj](https://github.com/CSUwangj) |
