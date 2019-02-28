@@ -1,2 +1,12 @@
-*.vscode
+*/.vscode/*
+*/.vscode
 *~
+*.pyc
+*src/a.out
+*DEPLOY.txt
+/.vs/*
+*/.vs
+*.pch
+*src.exe
+*/Release
+*/Debug
