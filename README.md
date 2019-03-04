@@ -45,27 +45,27 @@
 | [HappyBirthday](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Crypto/HappyBirthday/src) | Crypto | 130 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Crypto/HappyBirthday/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#HappyBirthday) | [CSUWangj](https://github.com/CSUAuroraLab) |
 | [Non-cryptography Hash](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Crypto/Non-cryptographic_Hash/src) | Crypto | 200 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Crypto/Non-cryptographic_Hash/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#Non-cryptography-Hash) | [CSUWangj](https://github.com/CSUAuroraLab) |
 | 点击英雄1存档修改 | Crypto | 200 | / | [CSUWangj](https://github.com/CSUAuroraLab) |
-| 签到题-------------听说长一点大家才看得见 | Misc | 20 |         | [mitu9527](https://github.com/mitu9527) |
-| keypad | Misc | 35 |         | [mitu9527](https://github.com/mitu9527) |
-| base家族 | Misc | 35 |         | [mitu9527](https://github.com/mitu9527) |
-| Wireshark | Misc | 50 |         | [mitu9527](https://github.com/mitu9527) |
-| wordHidden | Misc | 50 |         | [mitu9527](https://github.com/mitu9527) |
-| difference | Misc | 50 |         | [mitu9527](https://github.com/mitu9527) |
-| Exhaustive | Misc | 75 |         | [mitu9527](https://github.com/mitu9527) |
-| xor | Misc | 75 |         | [mitu9527](https://github.com/mitu9527) |
-| cheat | Misc | 80 |         | [mitu9527](https://github.com/mitu9527) |
-| draw | Misc | 150 |         | [mitu9527](https://github.com/mitu9527) |
-| Hidden | Forensics | 25 |         | [mitu9527](https://github.com/mitu9527) |
-| Visiting history | Forensics | 30 |         | [mitu9527](https://github.com/mitu9527) |
+| 签到题-------------听说长一点大家才看得见 | Misc | 20 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#签到题-------------听说长一点大家才看得见) | [mitu9527](https://github.com/mitu9527) |
+| keypad | Misc | 35 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#keypad) | [mitu9527](https://github.com/mitu9527) |
+| base家族 | Misc | 35 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#base家族) | [mitu9527](https://github.com/mitu9527) |
+| Wireshark | Misc | 50 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#Wireshark) | [mitu9527](https://github.com/mitu9527) |
+| wordHidden | Misc | 50 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#wordHidden) | [mitu9527](https://github.com/mitu9527) |
+| difference | Misc | 50 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#difference) | [mitu9527](https://github.com/mitu9527) |
+| Exhaustive | Misc | 75 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#Exhaustive) | [mitu9527](https://github.com/mitu9527) |
+| xor | Misc | 75 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#xor) | [mitu9527](https://github.com/mitu9527) |
+| cheat | Misc | 80 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#cheat) | [mitu9527](https://github.com/mitu9527) |
+| draw | Misc | 150 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#draw) | [mitu9527](https://github.com/mitu9527) |
+| Hidden | Forensics | 25 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#Hidden) | [mitu9527](https://github.com/mitu9527) |
+| Visiting history | Forensics | 30 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#Visiting history) | [mitu9527](https://github.com/mitu9527) |
 | Popbox | Forensics | 35 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Forensics/Popbox/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#Popbox) | [CSUWangj](https://github.com/CSUAuroraLab) |
 | DoNothing | Forensics | 40 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Forensics/DoNothing/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#DoNothing) | [CSUWangj](https://github.com/CSUAuroraLab) |
 | Memory | Forensics | 40 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Forensics/Memory/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#Memory) | [CSUWangj](https://github.com/CSUAuroraLab) |
 | WireFish | Forensics | 40 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Forensics/WireFish/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#WireFish) | [CSUWangj](https://github.com/CSUAuroraLab) |
-| can't | Forensics | 40 |         | [mitu9527](https://github.com/mitu9527) |
-| jpg | Forensics | 45 |         | [mitu9527](https://github.com/mitu9527) |
-| png | Forensics | 45 |         | [mitu9527](https://github.com/mitu9527) |
-| jpg-1 | Forensics | 45 |         | [mitu9527](https://github.com/mitu9527) |
-| log | Forensics | 100 |         | [mitu9527](https://github.com/mitu9527) |
+| can't | Forensics | 40 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#can't) | [mitu9527](https://github.com/mitu9527) |
+| jpg | Forensics | 45 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#jpg) | [mitu9527](https://github.com/mitu9527) |
+| png | Forensics | 45 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#png) | [mitu9527](https://github.com/mitu9527) |
+| jpg-1 | Forensics | 45 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#jpg) | [mitu9527](https://github.com/mitu9527) |
+| log | Forensics | 100 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#log) | [mitu9527](https://github.com/mitu9527) |
 
 Phishing由于没有人做的原因，出题人决定鸽了
 
