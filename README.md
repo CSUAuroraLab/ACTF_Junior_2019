@@ -56,7 +56,7 @@
 | cheat | Misc | 80 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#cheat) | [mitu9527](https://github.com/mitu9527) |
 | draw | Misc | 150 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#draw) | [mitu9527](https://github.com/mitu9527) |
 | Hidden | Forensics | 25 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#Hidden) | [mitu9527](https://github.com/mitu9527) |
-| Visiting history | Forensics | 30 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#Visiting history) | [mitu9527](https://github.com/mitu9527) |
+| Visiting history | Forensics | 30 | [blog](https://mitu9527.github.io/2019/03/01/ACTF-Junior-2019-Official-WriteUP-of-mitu9527-s-Challenge/#Visiting%20history) | [mitu9527](https://github.com/mitu9527) |
 | Popbox | Forensics | 35 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Forensics/Popbox/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#Popbox) | [CSUWangj](https://github.com/CSUAuroraLab) |
 | DoNothing | Forensics | 40 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Forensics/DoNothing/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#DoNothing) | [CSUWangj](https://github.com/CSUAuroraLab) |
 | Memory | Forensics | 40 | [github](https://github.com/CSUAuroraLab/ACTF_Junior_2019/tree/master/Forensics/Memory/sol)/[blog](https://csuwangj.github.io/ACTF-Junior-2019-Official-WriteUP-of-CSUWangj-s-Challenge/#Memory) | [CSUWangj](https://github.com/CSUAuroraLab) |
