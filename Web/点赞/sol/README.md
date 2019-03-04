@@ -1,3 +1,9 @@
+考核：
+写脚本发送POST请求
+
+解题代码：
+
+```python
 import requests
 
 r  = requests.session()
@@ -11,4 +17,7 @@ for i in range(6666):
     print(i)
     if 'ACTF' in s:
         print(s[-80:])
+
+
+```
 
